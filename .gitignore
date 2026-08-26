@@ -1,0 +1,13 @@
+.DS_Store
+*.CATPart
+*.CATProduct
+*.rmcd
+*.env
+*.pem
+*.pfx
+google-credentials*.json
+SendGridAPIKey*
+node_modules/
+bin/
+obj/
+.vs/
