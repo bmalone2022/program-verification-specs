@@ -1,5 +1,7 @@
 # Document index
 
+Start on a new computer: [../HANDOFF.md](../HANDOFF.md).
+
 | Doc | Topic |
 |-----|--------|
 | [01-product-overview.md](01-product-overview.md) | What the product is |

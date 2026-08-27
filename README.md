@@ -6,9 +6,14 @@ Programmers upload a machining package (CATPart, RMCD program, tool list, engine
 
 **Target production host:** Windows Server + IIS inside the Spirit / Boeing manufacturing plant. CSR_Server stays on the plant LAN. Email goes out through internal Exchange / SMTP so users receive status and reports.
 
+## New machine / Cursor
+
+Open [HANDOFF.md](HANDOFF.md) first. It is the transfer document: clone, open this folder in Cursor, and a prompt to paste into a new Agent chat.
+
 ## Read this first
 
-1. [CHARTER.md](CHARTER.md) — purpose, non-goals, golden test
+1. [HANDOFF.md](HANDOFF.md) — new Mac / Cursor setup
+2. [CHARTER.md](CHARTER.md) — purpose, non-goals, golden test
 2. [docs/00-index.md](docs/00-index.md) — document map
 3. [docs/10-architecture.md](docs/10-architecture.md) — plant stack decision
 4. [docs/09-file-and-job-contract.md](docs/09-file-and-job-contract.md) — inbox/outbox CSR_Server must implement
