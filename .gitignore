@@ -2,6 +2,8 @@
 *.CATPart
 *.CATProduct
 *.rmcd
+!testdata/**/*.CATPart
+!testdata/**/*.rmcd
 *.env
 *.pem
 *.pfx
