@@ -5,6 +5,8 @@ Send Rick this file (or the GitHub URL after it is on `main`). His Cursor **Agen
 **Source (public):** https://github.com/bmalone2022/program-verification-specs  
 **Target:** create **`rickguptilltwin/program-verification-specs`** (new repo, full git history, same `main`).
 
+**Click-through mock-up (test in a browser after clone):** [prototypes/program-verification-prototype_v1.html](prototypes/program-verification-prototype_v1.html) — see [prototypes/README.md](prototypes/README.md).
+
 Brett Malone (`bmalone2022`) authored the phase-0 specs. Rick owns CSR_Server on the plant network. After migrate, Rick’s GitHub is the working copy; keep Brett as a collaborator.
 
 ---
