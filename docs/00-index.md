@@ -1,6 +1,9 @@
 # Document index
 
-Start on a new computer: [../HANDOFF.md](../HANDOFF.md).
+Start on a new computer: [../HANDOFF.md](../HANDOFF.md).  
+Send to Rick (his Cursor agent creates `rickguptilltwin/program-verification-specs`): [../HANDOFF-RICK.md](../HANDOFF-RICK.md).
+
+Mock-ups: [../prototypes/style-guide.md](../prototypes/style-guide.md) (Twin palette + icons) · [../prototypes/README.md](../prototypes/README.md) (HTML click-through)
 
 | Doc | Topic |
 |-----|--------|

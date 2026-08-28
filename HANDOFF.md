@@ -128,9 +128,9 @@ Copy separately only if you still need them. They are not required to continue s
 
 ## 5. People and access
 
-- **Owner:** GitHub `bmalone2022`
-- **Rick:** invited as collaborator from GitHub. He must **accept** the invite before clone works for him. Until then a private repo looks like it does not exist.
-- Sharing is by collaborator invite, not by sending a public URL.
+- **Owner (this copy):** GitHub `bmalone2022`. Repo is **public**.
+- **Rick:** send [HANDOFF-RICK.md](HANDOFF-RICK.md) so his Cursor agent can clone this history onto `rickguptilltwin/program-verification-specs`.
+- Collaborator invite on this copy is optional for clone (public) but still needed for **write** on Brett’s GitHub.
 
 ---
 
